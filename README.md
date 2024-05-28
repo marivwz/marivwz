@@ -1,6 +1,6 @@
 ## ✩ hii! ✩
 
-- 😄 Pronouns: she/her
+- ⭐ 214 stars on my brain 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
