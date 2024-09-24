@@ -1,4 +1,4 @@
-## ✩ hii! ✩
+## hii! ✩
 
 - ✮⋆˙ 214 stars on my brain ˙⋆✮
 
