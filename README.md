@@ -8,9 +8,9 @@
 
 ## ⭑ About Me
 
-- ♡ Exploring technology and front-end development  
-- ✦ Creating simple and meaningful digital projects  
-- ☁︎ Always learning and improving  
+- Exploring technology and front-end development  
+- Creating simple and meaningful digital projects  
+- Always learning and improving  
 
 ---
 
@@ -41,6 +41,6 @@
 
 <div align="center">
 
-☾ Made with creativity and curiosity ☽
+ ⭑ Made with creativity and curiosity ⭑
 
 </div>
