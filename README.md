@@ -4,26 +4,25 @@
 
 </div>
 
----
-
 ## ⭑ About Me
 
 - Exploring technology and front-end development  
 - Creating simple and meaningful digital projects  
 - Always learning and improving  
 
----
+
 
 ## ⭑ Technologies
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mari-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mari-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mari-Python" height="35" width="45" src="https://icon.icepanel.io/Technology/svg/Python.svg">
+  <img align="center" alt="Mari-SQL" height="35" width="45" src="https://icon.icepanel.io/Technology/svg/MySQL.svg">  
   <img align="center" alt="Mari-CSharp" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
----
 
 ## ⭑ Connect with Me
 
