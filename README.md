@@ -4,7 +4,7 @@
 
 </div>
 
-## ⭑ About Me
+## About Me ⭑
 
 - Exploring technology and front-end development  
 - Creating simple and meaningful digital projects  
@@ -12,7 +12,7 @@
 
 
 
-## ⭑ Technologies
+## Technologies ⭑
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +24,7 @@
 </div>
 
 
-## ⭑ Connect with Me
+## Connect with Me ⭑
 
 <div> 
   <a href="https://www.instagram.com/marivwz/" target="_blank">
